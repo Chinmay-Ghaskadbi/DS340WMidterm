@@ -30,5 +30,5 @@ To run this notebook in Google Colab, follow these steps:
 ## Contributing
 Feel free to fork this repository, make changes, and submit pull requests if you have suggestions to improve this notebook.
 
-Authors
+##Authors
 This repository was created by Mihir Kulkarni and Chinmay Ghaskadbi, as part of their work under the guidance of Dr. Kaamran Raahemifar in the DS 340W course. Their collaborative efforts aim to further research into dark patterns and synthetic data applications in e-commerce.
