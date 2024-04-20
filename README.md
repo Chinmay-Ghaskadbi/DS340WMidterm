@@ -11,7 +11,6 @@ This Jupyter Notebook supports a research project detailed in the paper titled "
 - **Data Cleaning and Preparation**: Steps to clean and prepare data for analysis.
 - **Data Analysis**: Detailed analysis, including statistical tests and data exploration.
 - **Visualization**: Code for generating insightful visualizations to interpret the data effectively.
-- **Conclusion**: Summary of findings and potential next steps.
 
 ## Running on Google Colab
 To run this notebook in Google Colab, follow these steps:
